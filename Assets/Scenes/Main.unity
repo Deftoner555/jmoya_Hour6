@@ -1877,7 +1877,7 @@ GameObject:
   - component: {fileID: 98477677}
   - component: {fileID: 98477676}
   m_Layer: 0
-  m_Name: FinishZone
+  m_Name: FinishZone 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2845,11 +2845,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_GravityMultiplier
-      value: 1.5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 14300000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_SlopeLimit
-      value: 25
+      value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
@@ -4089,7 +4089,7 @@ GameObject:
   - component: {fileID: 864244029}
   - component: {fileID: 864244028}
   m_Layer: 0
-  m_Name: FinishZone (1)
+  m_Name: FinishZone 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4986,8 +4986,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1977199199}
-  m_LocalRotation: {x: 0.22969346, y: 0.3361574, z: 0.084361784, w: -0.90946263}
-  m_LocalPosition: {x: -6.7293053, y: -20.064041, z: -26.184105}
+  m_LocalRotation: {x: -0.27452263, y: 0.35800007, z: 0.11172038, w: 0.8854332}
+  m_LocalPosition: {x: 21.156296, y: -21.606564, z: 14.675751}
   m_LocalScale: {x: 0.50000006, y: 0.96610755, z: 0.50892687}
   m_Children: []
   m_Father: {fileID: 1513593840}
